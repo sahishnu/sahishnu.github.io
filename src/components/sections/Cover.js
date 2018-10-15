@@ -6,7 +6,7 @@ export default class Cover extends Component {
   render () {
     const title = `Hi, I'm Sahishnu Patel`;
     const titleSub = `🔥 Developer & Designer`;
-    const blurb = `I like crafting meaningful experiences, using technology`;
+    const blurb = `I like crafting memorable experiences, using technology`;
     return (
       <section className='cover full-section'>
         <main className='cover-section'>
@@ -26,6 +26,8 @@ export default class Cover extends Component {
             <div className='profile-image-container'>
               <img className='profile-image drop-shadow' alt='profile' src={profile} />
             </div>
+          </div>
+          <div className='cover-current text'>
           </div>
         </main>
       </section>

@@ -1,1 +1,0 @@
-export const birthday = 'Septermber 29, 1995 00:00:00'

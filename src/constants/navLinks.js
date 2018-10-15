@@ -10,7 +10,7 @@ export const navLinks = [
     isExternal: true
   },
   {
-    name: 'Portfolio',
+    name: 'UI/UX',
     value: 'https://www.behance.net/sahishnu',
     isExternal: true
   }

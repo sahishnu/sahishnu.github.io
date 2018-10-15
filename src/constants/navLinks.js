@@ -1,4 +1,4 @@
-import resume from '../assets/Sahishnu_Resume_Oct_7.pdf';
+import resume from '../assets/Sahishnu_Resume.pdf';
 export const navLinks = [
   {
     name: 'Resume',

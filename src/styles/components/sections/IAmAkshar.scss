@@ -1,0 +1,56 @@
+.iamakshar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: $pale-aqua;
+  background-image: $wiggle;
+
+  .med-column {
+    width: 75%;
+    max-width: 800px;
+    .shot-container {
+      margin-bottom: 1.5rem;
+      margin-top: -3rem;
+      display: flex;
+      justify-content: center;
+
+      .img1 {
+        z-index: 1;
+      }
+      .img2 {
+        margin-left: -3rem;
+        margin-top: 3rem;
+        margin-right: 2rem;
+        z-index: 0;
+      }
+      .shot {
+        width: 100%;
+        align-self: center;
+        border-radius: 10px;
+        width: 250px;
+      }
+    }
+
+    .section-text {
+      text-align: left;
+      font-size: 18px;
+      color: $prussian-blue;
+      line-height: 36px;
+      .section-title {
+        font-size: 36px;
+        font-weight: bold;
+      }
+      .section-byline {
+        font-size: 24px;
+        font-weight: bold;
+        margin-bottom: 2rem;
+      }
+      .section-description {
+        font-size: 20px;
+      }
+    }
+  }
+
+
+}

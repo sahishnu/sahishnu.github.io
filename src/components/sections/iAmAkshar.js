@@ -8,9 +8,9 @@ export default class iAmAkshar extends Component {
       <section className='iamakshar full-screen'>
         <div className='med-column'>
           <div className='shot-container'>
-            <img className='shot shot-shadow img1' src={iamakshar1} />
-            <img className='shot shot-shadow img2' src={iamakshar2} />
-            <img className='shot drop-shadow img3' src={iamakshar3} />
+            <img alt='login' className='shot shot-shadow img1' src={iamakshar1} />
+            <img alt='all tracks' className='shot shot-shadow img2' src={iamakshar2} />
+            <img alt='app icon' className='shot drop-shadow img3' src={iamakshar3} />
           </div>
           <div className='section-text'>
             <div className='section-title title'>iAmAkshar</div>

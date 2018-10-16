@@ -6,7 +6,7 @@ export default class Sampark extends Component {
       <section className='sampark full-screen'>
         <div className='med-column'>
           <div className='shot-container'>
-            <img className='shot shot-shadow' src={samparkImg} />
+            <img alt='contacts view' className='shot shot-shadow' src={samparkImg} />
           </div>
           <div className='section-text'>
             <div className='section-title title'>Sampark</div>

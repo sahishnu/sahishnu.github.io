@@ -5,13 +5,18 @@ export const navLinks = [
     value: resume
   },
   {
-    name: 'LinkedIn',
-    value: 'https://www.linkedin.com/in/sahishnu-patel-9506a78b',
+    name: 'Github',
+    value: 'https://github.com/sahishnu/',
     isExternal: true
   },
   {
     name: 'UI/UX',
     value: 'https://www.behance.net/sahishnu',
     isExternal: true
-  }
+  },
+  {
+    name: 'LinkedIn',
+    value: 'https://www.linkedin.com/in/sahishnup',
+    isExternal: true
+  },
 ]

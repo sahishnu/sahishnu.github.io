@@ -59,14 +59,15 @@
         transform: skewY(-6deg);
         color: $indian-red;
         height: 3rem;
+        font-size: 1.5rem;
         width: 100%;
         border-radius: 0;
 
         &::before {
-          content: '☆'
+          content: '★ '
         }
         &::after {
-          content: '☆'
+          content: ' ★'
         }
       }
     }

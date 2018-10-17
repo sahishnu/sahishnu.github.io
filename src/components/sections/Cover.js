@@ -19,7 +19,12 @@ export default class Cover extends Component {
               <div className='cover-blurb text'>{blurb}</div>
               <div className='cover-links'>
                 {navLinks.map((link, index) => {
-                  return <SmartLink isExternal={link.isExternal} classes='cover-link' value={link.value} name={link.name} key={index} />
+                  return <SmartLink
+                    isExternal={link.isExternal}
+                    classes='cover-link'
+                    value={link.value}
+                    name={link.name}
+                    key={index} />
                 })}
               </div>
             </div>

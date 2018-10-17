@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Cover, Sampark, IAmAkshar } from './components';
+import { Cover, Sampark, IAmAkshar, Demos } from './components';
 import { BrowserRouter as Router } from 'react-router-dom';
 class App extends Component {
   render() {
@@ -9,6 +9,7 @@ class App extends Component {
           <Cover />
           <Sampark />
           <IAmAkshar />
+          <Demos />
         </div>
       </Router>
     );

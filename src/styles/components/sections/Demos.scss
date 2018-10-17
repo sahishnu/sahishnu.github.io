@@ -1,0 +1,62 @@
+.demos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: $zomp;
+  background-image: $aztec;
+
+  .cards-container {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    padding: 7rem 1rem;
+    flex-wrap: wrap;
+  }
+
+  .section-title-container {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+
+    .section-title {
+      color: $ghost-white;
+      font-weight: bold;
+      padding: 0 2rem 2rem 2rem;
+      .title-text {
+        font-size: 36px;
+      }
+      .sub-title {
+        font-size: 24px;
+      }
+    }
+  }
+
+
+}
+
+
+@media screen and (max-width: 600px) {
+  .demos {
+    .cards-container {
+      padding: 2rem 0rem;
+    }
+  
+    .section-title-container {
+  
+      .section-title {
+        color: $ghost-white;
+        font-weight: bold;
+        padding: 0 2rem 2rem 2rem;
+        .title-text {
+
+        }
+        .sub-title {
+
+        }
+      }
+    }
+  
+  
+  }
+}

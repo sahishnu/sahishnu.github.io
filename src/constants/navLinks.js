@@ -10,13 +10,13 @@ export const navLinks = [
     isExternal: true
   },
   {
-    name: 'UI/UX',
-    value: 'https://www.behance.net/sahishnu',
-    isExternal: true
+    name: 'Demos',
+    value: './#demos',
+    isInternal: true
   },
   {
-    name: 'LinkedIn',
-    value: 'https://www.linkedin.com/in/sahishnup',
+    name: 'UI/UX',
+    value: 'https://www.behance.net/sahishnu',
     isExternal: true
   },
 ]

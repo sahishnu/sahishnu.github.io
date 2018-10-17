@@ -9,5 +9,5 @@ export const SmartLink = (props) => {
   const classes = classesArray.join(' ');
   return props.isExternal ?
     <a rel='noopener noreferrer' className={classes} target='_blank' href={props.value}>{props.name}</a> :
-    <Link rel='noopener noreferrer' className={classes} target='_blank' to={props.value}>{props.name}</Link>
+    <Link rel='noopener noreferrer' className={classes} target={!props.isInternal ? '_self' : null} to={props.value}>{props.name}</Link>
 }

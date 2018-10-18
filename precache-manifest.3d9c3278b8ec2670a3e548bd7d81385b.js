@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/static/media/iamakshar3.f7bda778.png"
   },
   {
-    "revision": "a4f6d76b186d7416c5db3d9bd6fd728f",
+    "revision": "06878562e7d530368b76f87ed5bde2ad",
     "url": "/index.html"
   }
 ];

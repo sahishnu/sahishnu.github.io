@@ -5,8 +5,8 @@
   "homepage": "http://sahishnu.github.io/",
   "dependencies": {
     "node-sass": "^4.9.4",
-    "react": "^16.5.2",
-    "react-dom": "^16.5.2",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
     "react-router": "^4.3.1",
     "react-router-dom": "^4.3.1",
     "react-scripts": "2.0.5"
@@ -29,6 +29,6 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "gh-pages": "^2.0.1"
+    "gh-pages": "^2.2.0"
   }
 }

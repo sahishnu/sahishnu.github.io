@@ -1,22 +1,22 @@
-import resume from '../assets/Sahishnu_Resume.pdf';
+import resume from "../assets/Sahishnu_Resume_Feb_1.pdf";
 export const navLinks = [
   {
-    name: 'Resume',
-    value: resume
+    name: "Resume",
+    value: resume,
   },
   {
-    name: 'Github',
-    value: 'https://github.com/sahishnu/',
-    isExternal: true
+    name: "Github",
+    value: "https://github.com/sahishnu/",
+    isExternal: true,
   },
   {
-    name: 'Demos',
-    value: './#demos',
-    isInternal: true
+    name: "Demos",
+    value: "./#demos",
+    isInternal: true,
   },
   {
-    name: 'UI/UX',
-    value: 'https://www.behance.net/sahishnu',
-    isExternal: true
+    name: "UI/UX",
+    value: "https://www.behance.net/sahishnu",
+    isExternal: true,
   },
-]
+];

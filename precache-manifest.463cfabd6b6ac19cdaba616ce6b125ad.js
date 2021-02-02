@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "2d4944bf08e0d3a90a224f102c9df24d",
-    "url": "/static/media/flying-letters.2d4944bf.png"
+    "revision": "c4be75815a2ea255a9aa",
+    "url": "/static/css/main.fdd7a25a.chunk.css"
   },
   {
-    "revision": "eebf41452547f3083017",
-    "url": "/static/css/main.da29ebe5.chunk.css"
+    "revision": "c4be75815a2ea255a9aa",
+    "url": "/static/js/main.c4be7581.chunk.js"
   },
   {
-    "revision": "59dc02791c03d2ebabd5",
-    "url": "/static/js/1.59dc0279.chunk.js"
+    "revision": "095e4a52b9258e4d0bfa",
+    "url": "/static/js/1.095e4a52.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
     "url": "/static/js/runtime~main.229c360f.js"
   },
   {
-    "revision": "dbd98de291c2c7d9acb084ca1a4a9718",
-    "url": "/static/media/Sahishnu_Resume.dbd98de2.pdf"
+    "revision": "99442dccf7401175fc99fe33b655c17b",
+    "url": "/static/media/Sahishnu_Resume_Feb_1.99442dcc.pdf"
   },
   {
     "revision": "aab0d06a0899fb22e24c39d14f117ca1",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/static/media/flappyJS.5dc3451a.png"
   },
   {
-    "revision": "eebf41452547f3083017",
-    "url": "/static/js/main.eebf4145.chunk.js"
+    "revision": "2d4944bf08e0d3a90a224f102c9df24d",
+    "url": "/static/media/flying-letters.2d4944bf.png"
   },
   {
     "revision": "e03b7b65418d1166377bab09bfe1ec90",
@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/static/media/iamakshar3.f7bda778.png"
   },
   {
-    "revision": "06878562e7d530368b76f87ed5bde2ad",
+    "revision": "df775a90b0e986d2c2bb0cfb602b3b12",
     "url": "/index.html"
   }
 ];

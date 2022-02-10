@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "http://sahishnu.github.io/",
   "dependencies": {
-    "node-sass": "^4.9.4",
+    "node-sass": "^7.0.0",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-router": "^4.3.1",
